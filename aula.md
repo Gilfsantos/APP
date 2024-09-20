@@ -7,9 +7,9 @@ Como um lego, voce ira utilizar pecas para criar algoritimos, ou seja , para res
 
 ## Pecas de uma linguagem 
 
-- Comentarios 
+- [x] Comentarios 
 - Declaracao de variaveis (const, let)
-- Operadores (atribuicao, concatenacao, matematicos, logicos)
+- Operadores (atribuicao , concatenacao, matematicos, logicos)
 - Tipo de dados (string, number, boolean)
 - Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
@@ -20,3 +20,20 @@ Como um lego, voce ira utilizar pecas para criar algoritimos, ou seja , para res
 Coletar os dados 
 Processar os dados (manipular , alterar)
 Apresentar os dados
+
+## Escopo e variaveis
+
+variavel local e global
+constantes
+
+
+# Tipos de dados:
+
+Strings (textos): "" '' ``
+number: 2 1.4
+function
+
+## Operadores
+
+Operadores de atrubuicao de valor
+
