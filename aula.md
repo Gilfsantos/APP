@@ -37,6 +37,7 @@ Apresentar os dados
 
 - [x]Operadores de atrubuicao de valor =
 - [x]operador de concatenacao +
+- [x]operadores de comparacao: == != <= >=  < >
 
 ## Estruturas de dados:
 
@@ -63,6 +64,7 @@ Apresentar os dados
 # Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Modulos em node.js
 
