@@ -1,5 +1,6 @@
-const  start =()=>{
+const { default: inquirer } = require("inquirer")
 
+const  start =()=>{
     
     
 while (true){
