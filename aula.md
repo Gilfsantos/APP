@@ -45,7 +45,7 @@ Apresentar os dados
 ## Arrays:
 
 - [x] Uma lista que contem qualquer tipo de dado
-- [x] metodos de array:foreach, push, find,filter : hof (higher order function)
+- [x] metodos de array:foreach, push, find, map, filter : hof (higher order function)
 
 
 ## Objetos:
