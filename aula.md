@@ -38,12 +38,15 @@ Apresentar os dados
 - [x]Operadores de atrubuicao de valor =
 - [x]operador de concatenacao +
 - [x]operadores de comparacao: == != <= >=  < >
+- [x]spread operator : ...
 
 ## Estruturas de dados:
 
 ## Arrays:
 
-- [x]         Uma lista que contem qualquer tipo de dado
+- [x] Uma lista que contem qualquer tipo de dado
+- [x] metodos de array:foreach, push, find,filter : hof (higher order function)
+
 
 ## Objetos:
 
